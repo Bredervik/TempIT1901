@@ -1,2 +1,2 @@
 # TempIT1901
-TempGit
+Dette er et midlertidig depo.
